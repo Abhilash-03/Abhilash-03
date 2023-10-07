@@ -1,6 +1,9 @@
+## Hi Viewers 👋
 # 💫 About Me:
 🔭 I’m currently working on MERN projects<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about help in projects and collaboration 
 
+---
+![](https://komarev.com/ghpvc/?username=Abhilash-03&color=blueviolet)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(Abhilash Kumar Jha)](https://www.linkedin.com/in/abhilash-kumar-jha-a4b750264) 
