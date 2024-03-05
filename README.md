@@ -1,6 +1,6 @@
 ## Hi Viewers 👋
 # 💫 About Me:
-🔭 I’m currently working on MERN projects<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about help in projects and collaboration 
+🔭 I’m currently working on MERN projects<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about help in projects and collaboration<br> [KNOW MORE ABOUT ME - PORTFOLIO](https://abhilashfolio.vercel.app) 
 
 ---
 ![](https://komarev.com/ghpvc/?username=Abhilash-03&color=blueviolet)
