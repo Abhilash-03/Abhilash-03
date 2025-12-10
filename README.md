@@ -1,6 +1,7 @@
 ## Hi Coders & Viewers 👋
 # 💫 About Me:
-🔭 I’m currently working on MERN projects<br>🌱 I’m currently learning Next.js<br>💬 Ask me about help in projects and collaboration<br> [KNOW MORE ABOUT ME - PORTFOLIO](https://abhilashfolio.vercel.app) 
+ 🏢 Currently working at Astryx AI as a Software Engineer (type- freelance)<br>
+🔭 I’m currently working on MERN projects<br>🌱 I’m currently learning DSA and System Design<br>💬 Ask me about help in projects and collaboration<br> [KNOW MORE ABOUT ME - PORTFOLIO](https://abhilashfolio.vercel.app) 
 
 ---
 ![](https://komarev.com/ghpvc/?username=Abhilash-03&color=blueviolet)
