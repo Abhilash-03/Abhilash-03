@@ -29,9 +29,9 @@
 
 ```javascript
 const abhilash = {
-    role: "Software Engineer - Frontend @ Astryx AI",
+    role: "Software Engineer",
     location: "India 🇮🇳",
-    currentFocus: ["MERN Stack", "System Design", "DSA"],
+    currentFocus: ["Product Building", "System Design", "DSA"],
     askMeAbout: ["Web Dev", "Tech", "Collaboration"],
     funFact: "I debug with console.log and I'm not ashamed 😄"
 };
@@ -39,8 +39,7 @@ const abhilash = {
 
 <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhilash-03&layout=compact&theme=tokyonight&hide_border=true" width="320"/>
 
-- 🏢 Currently working at **Astryx AI** as Software Engineer (Freelance)
-- 🔭 Building production-grade **MERN applications**
+- 🔭 Building production-grade **MERN/NEXT.js applications**
 - 🌱 Deep diving into **DSA** and **System Design**
 - 💬 Open for **collaborations** and helping with projects
 - 📫 Reach me at my **[Portfolio](https://akjfolio.vercel.app)**
