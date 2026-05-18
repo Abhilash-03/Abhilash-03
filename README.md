@@ -64,7 +64,7 @@ const abhilash = {
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,postman,supbase" />
 </p>
 
 </td>
