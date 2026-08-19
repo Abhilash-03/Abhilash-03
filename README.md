@@ -37,7 +37,7 @@ const abhilash = {
 };
 ```
 
-<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhilash-03&layout=compact&theme=tokyonight&hide_border=true" width="320"/>
+<img align="right" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abhilash-03&layout=compact&theme=tokyonight&hide_border=true" width="320"/>
 
 - 🔭 Building production-grade **MERN/NEXT.js applications**
 - 🌱 Deep diving into **DSA** and **System Design**
@@ -114,7 +114,7 @@ const abhilash = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhilash-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
+   <!-- <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Abhilash-03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/> -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhilash-03&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1"/>
 </p>
 
